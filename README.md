@@ -19,3 +19,7 @@ chmod +x scripts/download_weights.sh
 scripts/download_weights.sh
 ```
 - Run detections on single image.
+```Shell
+./darknet data/ronaldo.jpg
+```
+- Result of detections in output.png
