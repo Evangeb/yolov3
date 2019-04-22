@@ -1,0 +1,13 @@
+yolov3.weights
+*.o
+*.dSYM
+*.csv
+*.out
+*.png
+*.jpg
+*.pyc
+darknet
+utils
+CMakeFiles/
+data/
+build/
